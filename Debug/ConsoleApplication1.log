@@ -1,0 +1,6 @@
+﻿  cli-commands.cpp
+C:\Users\viore\Documents\code\custom-os\ConsoleApplication1\cli-commands.cpp(12,2): warning C4091: 'typedef ': ignored on left of 'CLICommand' when no variable is declared
+  cli.cpp
+C:\Users\viore\Documents\code\custom-os\ConsoleApplication1\cli-commands.h(16,2): warning C4091: 'typedef ': ignored on left of 'CLICommand' when no variable is declared
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\viore\Documents\code\custom-os\ConsoleApplication1\Debug\ConsoleApplication1.exe
